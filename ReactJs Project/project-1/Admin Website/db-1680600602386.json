@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jainik",
+      "email": "jainikrami1998@gmail.com",
+      "mobile": "7383303452",
+      "password": "123456"
+    },
+    {
+      "name": "Rami ",
+      "mobile": "123456789",
+      "email": "rami@gmail.com",
+      "password": "123456",
+      "id": "1680346381102",
+      "status": "Unblock"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Jainik",
+      "email": "jainikrami1998@gmail.com",
+      "mobile": "7383303452",
+      "message": "None"
+    },
+    {
+      "name": "rami",
+      "mobile": "123456789",
+      "email": "rami@gmail.com",
+      "message": "None",
+      "contact_id": "1680346293545",
+      "type": "N",
+      "id": 2
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "jainikrami1998@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

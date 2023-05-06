@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "priya patel",
+      "mobile": "9722041171",
+      "email": "priya@gmail.com",
+      "password": "123456",
+      "id": "1679569324712",
+      "status": "Unblock"
+    },
+    {
+      "id": 1,
+      "name": "Jainik",
+      "email": "jainikrami1998@gmail.com",
+      "mobile": "7383303452",
+      "password": "123456"
+    },
+    {
+      "name": "uiuy",
+      "mobile": "123456770054",
+      "email": "rajnaghar@gmail.com",
+      "password": "123445",
+      "id": "1679569361295",
+      "status": "Unblock"
+    },
+    {
+      "name": "mitasha",
+      "mobile": "9722041171",
+      "email": "mitasha@gmail.com",
+      "password": "1234",
+      "id": "1679570157288",
+      "status": "Unblock"
+    },
+    {
+      "name": "nirav",
+      "mobile": "1234567800",
+      "email": "nirav@gmail.com",
+      "password": "1234",
+      "id": "1679570206703",
+      "status": "Unblock"
+    }
+  ]
+}
